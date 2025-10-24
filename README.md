@@ -1,2 +1,3 @@
 # Fitolit-Kuta-Baginda-Berau
-Project ini merupakan hasil analisis fitolit yang dilakukan dari sedimen Situs Kuta Baginda, Berau tahun 2021. 
+Project ini merupakan repository data fitolit yang diperoleh dari Situs Kuta Baginda.
+Data fitolit diekstraksi dari sedimen yang diperoleh dari kegiatan ekskavasi tahun 2021.
